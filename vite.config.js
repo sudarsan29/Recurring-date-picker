@@ -8,6 +8,6 @@ export default defineConfig({
     environment: 'jsdom',
   },
   server: {
-    allowedHosts: 'all',
+    allowedHosts: ['fs5h4l-5173.csb.app']
   },
 });
